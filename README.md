@@ -3,7 +3,7 @@
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?
-A: *Student should provide answer here*
+A: By only searching for matching row letters or column numbers, we accurately reduce the search set to find the values that need to be changed.
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?
