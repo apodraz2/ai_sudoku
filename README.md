@@ -7,7 +7,8 @@ A: By only searching for matching row letters or column numbers, we accurately r
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?
-A: *Student should provide answer here*
+A: I used the same functions as a normal sudoku problem with one small change: I included the diagonal squares as peers. By increasing the constraints,
+my program accurately solved the problem.
 
 ### Install
 
